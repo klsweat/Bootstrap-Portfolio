@@ -117,6 +117,14 @@ nav {
     margin-bottom: 50px;
 }
 
+
+.wrapper_header {
+	width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+
 .header{
 	background: #FFF;
 }
@@ -125,6 +133,10 @@ nav {
 
 footer{
 	background: #FFF;
+}
+
+form {
+	padding-bottom: 20px;
 }
 
 #stack {
@@ -247,6 +259,14 @@ footer {
 		padding: 2px;
 	}
 
+	 .wrapper_header {
+		width: auto;
+	    margin: 0 auto;
+	    margin-bottom: auto;
+	}
+
+
+
 }
 
 @media screen and (max-width: 640px) {
@@ -262,6 +282,12 @@ footer {
     	margin-top: 22px;
     	border-radius: 0px !important;
     }
+
+    .wrapper_header {
+		width: auto;
+	    margin: 0 auto;
+	    margin-bottom: auto;
+	}
 
 
 
