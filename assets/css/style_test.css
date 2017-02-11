@@ -1,0 +1,83 @@
+body{	
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#border {	
+	border-right: 1px solid #9d9d9d;
+}
+
+.navbar-right {
+	margin: 10px 0px 10px 0px;
+}
+
+.navbar-brand{
+	margin: 10px 0px 10px 0px;
+
+}
+
+#image{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 100px;
+}
+
+.jumbotron{
+	background-image: url('../images/brick.jpg');
+	background-repeat: repeat;
+	width: 100%;
+	height: 300px;
+	margin-bottom: 100px;
+	}
+
+
+#stack {
+	background-image: url('../images/stackoverflow.png');
+	width: 60px;
+	height: 60px;
+	background-repeat: no-repeat;
+	float: left;
+	padding-right: 5px;
+}
+
+#github {
+	background-image: url('../images/github.png');
+	width: 60px;
+	height: 60px;
+	background-repeat: no-repeat;
+	float: left;
+	padding-right: 18px;
+
+}
+
+#linkedin {
+	background-image: url('../images/linked.png');
+	width: 60px;
+	height: 60px;
+	background-repeat: no-repeat;
+	float: right;
+}
+
+#facebook {
+	background-image: url('../images/facebook.png');
+	width: 60px;
+	height: 60px;
+	background-repeat: no-repeat;
+	float: right;
+}
+
+#header_icons {
+	top: 50px;
+
+}
+
+#email{
+	background-image: url('../images/email.png');
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+}
+
+footer {
+	text-align: center;
+}
